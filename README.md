@@ -1,3 +1,6 @@
 # python_snake_game
 A snake game written in Python
-![Screenshot (169)](https://user-images.githubusercontent.com/86628613/197966698-6a3bd701-3220-4c60-8494-491dc26983ac.png)
+
+
+
+<img width="553" alt="Lets-chat" src="https://user-images.githubusercontent.com/86628613/197966822-e9953d66-a75e-4fe0-b68f-ff1961c734f1.png">
